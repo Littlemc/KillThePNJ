@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/mcphoton/Photon-Server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BlackScarx/HiddenChest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\BlackScarx\Documents\Photon-Server" />
+    <option name="cloneParentDir" value="C:\Users\BlackScarx\Documents\HiddenChest" />
   </component>
 </application>
