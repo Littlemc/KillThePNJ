@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/MarkusWME/YAML-Parser.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Litarvan/Swinger.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\BlackScarx\IntellijideaProject\YAML-Parser" />
+    <option name="cloneParentDir" value="C:\Users\BlackScarx\IntellijideaProject\Swinger" />
   </component>
 </application>
