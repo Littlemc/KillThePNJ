@@ -42,6 +42,10 @@
           <option name="url" value="https://bitbucket.org/asomov/snakeyaml.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.mcdev.fr:3000/Will33_/Friends.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\BlackScarx\IntellijideaProject\" />
